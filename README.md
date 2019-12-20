@@ -5,6 +5,7 @@ A parallel corpus from TED transcript.
 - English text after word segmentation. (10M high quality text data)
 - Chinese text after word segmentation by jieba. (10M high quality text data)
 - Chinese and English vocabulary tables. (43,000 English vocabulary, 62,000 Chinese vocabulary)
+- The Spider and process programs. (writen in Python, no comment yet)
 
 ### A part of data:
 **English vocabulary table**
